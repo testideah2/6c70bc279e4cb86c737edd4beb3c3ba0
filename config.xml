@@ -5,9 +5,9 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "ru.7app.zaim.app"
         versionCode = "10"
-        version     = "1.0.0">
+        version     = "1.1.0">
 
-    <name>ТЕСТ. Займы под 0%</name>
+    <name>Займы под 0%</name>
 
     <description>
         zaim.7app.ru
